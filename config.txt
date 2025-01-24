@@ -1,0 +1,12 @@
+[General]
+version: 1.0
+name: "MyCity"
+theme: "DefaultDark" # Custom themes are allowed.
+[Setup]
+setted_up: false
+  [User]
+    name: []
+[SafeMode]
+enabled: false # Enabling this will NOT turn on the game!
+[Arguments]
+# remove this comment and add argument(s) here.
